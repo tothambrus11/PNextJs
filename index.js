@@ -1,1 +1,2 @@
-import * as s from "./src/Main.js";
+import * as s from "dist/bundle";
+export default s;
