@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="338f33b7-d4e1-4e9a-b2c0-9f57bd322d35" name="Default Changelist" comment="" />
+    <list default="true" id="338f33b7-d4e1-4e9a-b2c0-9f57bd322d35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ldm21TOT0F2YlU69e0yTJ3Tyd0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,7 +66,6 @@
       <option name="extraTypeScriptOptions" value="" />
       <option name="scriptName" value="C:\Users\User\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\ARCHIVE\2020-2021 (11)\PROJEKTEK\Programozás\Algoritmizálás\koordinatageometria\Vector2.ts" />
       <option name="programParameters" value="" />
-      <option name="tsnodePackage" value="~\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\ARCHIVE\2020-2021 (11)\PROJEKTEK\Programozás\Algoritmizálás\koordinatageometria\node_modules\ts-node" />
       <method v="2" />
     </configuration>
     <configuration name="watch" type="js.build_tools.npm" nameIsGenerated="true">
@@ -73,8 +79,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="npm.watch" />
       <item itemvalue="TypeScript.Main" />
+      <item itemvalue="npm.watch" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -86,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607935131757</updated>
       <workItem from="1607935133980" duration="6999000" />
-      <workItem from="1608018811420" duration="22694000" />
+      <workItem from="1608018811420" duration="23365000" />
     </task>
     <servers />
   </component>
@@ -143,6 +149,10 @@
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1608025750332" />
     <state width="1877" height="133" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608052901328" />
+    <state x="1918" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608053001824">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="253" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608053001824" />
     <state x="1982" y="240" width="672" height="677" key="run.anything.popup" timestamp="1608027462837">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
