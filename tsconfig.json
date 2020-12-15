@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "sourceRoot": "src",
+    "module": "ES6",
+    "sourceMap": true,
+    "pretty": true,
+    "allowSyntheticDefaultImports": true
+  }
+}

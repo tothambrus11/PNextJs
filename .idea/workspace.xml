@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="338f33b7-d4e1-4e9a-b2c0-9f57bd322d35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ldm21TOT0F2YlU69e0yTJ3Tyd0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.9" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\User\AppData\Local\JetBrains\Toolbox\apps\PhpStorm\ch-0\202.7660.42\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\ARCHIVE\2020-2021 (11)\PROJEKTEK\Programozás\Algoritmizálás\koordinatageometria\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\ARCHIVE\2020-2021 (11)\PROJEKTEK\Programozás\Algoritmizálás\koordinatageometria\dist" />
+      <recent name="C:\Users\User\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\ARCHIVE\2020-2021 (11)\PROJEKTEK\Programozás\Algoritmizálás\koordinatageometria\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.watch">
+    <configuration name="Main" type="TypeScriptProgramRunner" factoryName="TypeScript">
+      <module name="koordinatageometria" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="C:\Users\User\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\ARCHIVE\2020-2021 (11)\PROJEKTEK\Programozás\Algoritmizálás\koordinatageometria\Vector2.ts" />
+      <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="~\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\ARCHIVE\2020-2021 (11)\PROJEKTEK\Programozás\Algoritmizálás\koordinatageometria\node_modules\ts-node" />
+      <method v="2" />
+    </configuration>
+    <configuration name="watch" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="watch" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.watch" />
+      <item itemvalue="TypeScript.Main" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="338f33b7-d4e1-4e9a-b2c0-9f57bd322d35" name="Default Changelist" comment="" />
+      <created>1607935131757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607935131757</updated>
+      <workItem from="1607935133980" duration="6999000" />
+      <workItem from="1608018811420" duration="22694000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/Vector2.js.map" />
+        <option value="$PROJECT_DIR$/src/Line.js.map" />
+        <option value="$PROJECT_DIR$/src/LineSegment.js" />
+        <option value="$PROJECT_DIR$/src/LineSegment.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1559" y="0" width="1535" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608027262262">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607941148086" />
+    <state x="1559" y="0" width="1535" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608027262262" />
+    <state x="2076" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608051742348">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2076" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608051742348" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1608022050775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1608022050775" />
+    <state x="2003" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608049789027">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2003" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608049789027" />
+    <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1607941146695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607941146695" />
+    <state width="1877" height="133" key="GridCell.Tab.0.bottom" timestamp="1608052901328">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1608025750332" />
+    <state width="1877" height="133" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608052901328" />
+    <state width="1877" height="133" key="GridCell.Tab.0.center" timestamp="1608052901328">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1608025750332" />
+    <state width="1877" height="133" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608052901328" />
+    <state width="1877" height="133" key="GridCell.Tab.0.left" timestamp="1608052901328">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1608025750332" />
+    <state width="1877" height="133" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608052901328" />
+    <state width="1877" height="133" key="GridCell.Tab.0.right" timestamp="1608052901328">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1608025750332" />
+    <state width="1877" height="133" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608052901328" />
+    <state x="1982" y="240" width="672" height="677" key="run.anything.popup" timestamp="1608027462837">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1982" y="240" width="672" height="677" key="run.anything.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608027462837" />
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608048571231">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608048571231" />
+  </component>
+</project>
