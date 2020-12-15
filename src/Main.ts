@@ -70,8 +70,8 @@ function sulypont(A: Vector2, B: Vector2, C: Vector2) : Vector2{
     let BC = Vector2.fromTo(B, C);
     let lineBC = Line.createFromPointAndDirectionVector(B, BC);
 
-    //let AC = Vector2.fromTo(A, C);
-    //let lineAC = Line.createFromPointAndDirectionVector(A, AC);
+    let AC = Vector2.fromTo(A, C);
+    let lineAC = Line.createFromPointAndDirectionVector(A, AC);
 
     let F_a = Vector2.avg(B, C);
     let F_b = Vector2.avg(A, C);
@@ -79,11 +79,19 @@ function sulypont(A: Vector2, B: Vector2, C: Vector2) : Vector2{
 
     let AF_a = Vector2.fromTo(A, F_a);
     let BF_b = Vector2.fromTo(B, F_b);
-    //let CF_c = Vector2.fromTo(C, F_c);
+    let CF_c = Vector2.fromTo(C, F_c);
 
     let S_a = Line.createFromPointAndDirectionVector(A, AF_a);
     let S_b = Line.createFromPointAndDirectionVector(B, BF_b);
-    //let S_c = Line.createFromPointAndDirectionVector(C, CF_c);
+    let S_c = Line.createFromPointAndDirectionVector(C, CF_c);
+
+    // Szakaszok kirajzolása
+    let A_a_s = new LineSegment(A, F_a, "red");
+    let B_b_s = new LineSegment(B, F_b, "blue");
+    let C_c_s = new LineSegment(C, F_c, "green");
+    A_a_s.draw();
+    B_b_s.draw();
+    C_c_s.draw();
 
     return Line.intersection(S_a, S_b);
 }
@@ -114,5 +122,5 @@ function magassagPont(A: Vector2, B: Vector2, C: Vector2) : Vector2{
     M_c.draw();
 
 
-    return new Vector2(0,0);
+    return Line.intersection(Am_a, Bm_b);
 }
